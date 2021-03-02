@@ -1,0 +1,1441 @@
+{
+  "comprehensiveData": [
+    {
+      "name": "前端知识体系",
+      "id": "http://www.cnblogs.com/sb19871023/p/3894452.html"
+    },
+    { "name": "前端知识结构", "id": "https://github.com/JacksonTian/fks" },
+    {
+      "name": "Web前端开发大系概览",
+      "id": "https://github.com/unruledboy/WebFrontEndStack"
+    },
+    {
+      "name": "Web前端开发大系概览-中文版",
+      "id": "http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html"
+    },
+    {
+      "name": "Web Front-end Stack v2.2",
+      "id": "[Web Front-end Stack v2.2](https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web Front End Stack.png)"
+    },
+    {
+      "name": "免费的编程中文书籍索引",
+      "id": "https://github.com/justjavac/free-programming-books-zh_CN"
+    },
+    {
+      "name": "前端书籍",
+      "id": "https://github.com/dypsilon/frontend-dev-bookmarks"
+    },
+    {
+      "name": "前端免费书籍大全",
+      "id": "https://github.com/vhf/free-programming-books"
+    },
+    {
+      "name": "前端知识体系",
+      "id": "http://www.cnblogs.com/sb19871023/p/3894452.html"
+    },
+    {
+      "name": "免费的编程中文书籍索引",
+      "id": "https://github.com/justjavac/free-programming-books-zh_CN"
+    },
+    {
+      "name": "智能社 - 精通JavaScript开发",
+      "id": "http://study.163.com/course/introduction/224014.htm"
+    },
+    {
+      "name": "重新介绍 JavaScript（JS 教程）",
+      "id": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript"
+    },
+    {
+      "name": "麻省理工学院公开课：计算机科学及编程导论",
+      "id": "http://v.163.com/special/opencourse/bianchengdaolun.html"
+    },
+    {
+      "name": "JavaScript中的this陷阱的最全收集–没有之一",
+      "id": "http://segmentfault.com/a/1190000002640298"
+    },
+    {
+      "name": "JS函数式编程指南",
+      "id": "https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html"
+    },
+    {
+      "name": "JavaScript Promise迷你书（中文版）",
+      "id": "http://liubin.github.io/promises-book"
+    },
+    {
+      "name": "腾讯移动Web前端知识库",
+      "id": "https://github.com/AlloyTeam/Mars"
+    },
+    {
+      "name": "Front-End-Develop-Guide 前端开发指南",
+      "id": "https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide"
+    },
+    {
+      "name": "前端开发笔记本",
+      "id": "https://li-xinyang.gitbooks.io/frontend-notebook/content"
+    },
+    {
+      "name": "大前端工具集 - 聂微东",
+      "id": "https://github.com/nieweidong/fetool"
+    },
+    {
+      "name": "前端开发者手册",
+      "id": "https://dwqs.gitbooks.io/frontenddevhandbook/content"
+    }
+  ],
+
+  "primaryData": [
+    {
+      "name": "前端入门教程",
+      "id": "http://www.cnblogs.com/jikey/p/3613082.html"
+    },
+    {
+      "name": "廖雪峰的Javascript教程",
+      "id": "http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000"
+    },
+    {
+      "name": "前端工程师必备的PS技能——切图篇",
+      "id": "http://www.imooc.com/view/506"
+    },
+    {
+      "name": "结合个人经历总结的前端入门方法",
+      "id": "https://github.com/qiu-deqing/FE-learning"
+    }
+  ],
+  "toolData": [
+    {
+      "name": "前端人的俱乐部",
+      "id": "http://f2er.club/ 真可以解放你的收藏夹"
+    },
+    {
+      "name": "如何优雅地使用Sublime Text",
+      "id": "https://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/#"
+    },
+    {
+      "name": "新编码神器Atom使用纪要",
+      "id": "https://www.jeffjade.com/2016/03/03/2016-03-02-how-to-use-atom/"
+    },
+    { "name": "css sprite 雪碧图制作", "id": "http://www.imooc.com/learn/93" },
+    {
+      "name": "版本控制入门 – 搬进 Github",
+      "id": "http://www.imooc.com/learn/390"
+    },
+    {
+      "name": "Grunt-beginner前端自动化工具",
+      "id": "http://www.imooc.com/learn/30"
+    },
+    {
+      "name": "IntelliJ IDEA 简体中文专题教程",
+      "id": "https://github.com/judasn/IntelliJ-IDEA-Tutorial"
+    },
+    {
+      "name": "SublimeText",
+      "id": "https://github.com/jikeytang/sublime-text"
+    },
+    { "name": "Atom", "id": "[https://atom.io](https://atom.io/)" },
+    {
+      "name": "visual studio code",
+      "id": "[https://code.visualstudio.com](https://code.visualstudio.com/)"
+    }
+  ],
+  "pictureData": [
+    {
+      "name": "JavaScript 资源大全中文版",
+      "id": "https://github.com/jobbole/awesome-javascript-cn"
+    },
+    {
+      "name": "100+ 超全的web开发工具和资源",
+      "id": "https://xituqu.com/170.html"
+    },
+    { "name": "设计师网址导航", "id": "http://hao.uisdc.com/" },
+    { "name": "Web前端导航(Alloyteam)", "id": "http://www.alloyteam.com/nav/" },
+    { "name": "快搜", "id": "http://so.chongbuluo.com/" },
+    { "name": "阿里iconfont", "id": "http://www.iconfont.cn/" },
+    { "name": "zoommyapp.com", "id": "http://zoommyapp.com/ 高质量图库" },
+    { "name": "unsplash.com", "id": "https://unsplash.com/ 高质量图库" },
+    {
+      "name": "[www.pinterest.com](http://www.pinterest.com/)",
+      "id": "https://www.pinterest.com/图库"
+    },
+    {
+      "name": "New Old Stock",
+      "id": "[http://nos.twnsnd.co](http://nos.twnsnd.co/) 复古风图库"
+    },
+    { "name": "500px.com", "id": "https://500px.com/ 唯美照片" },
+    { "name": "效果网", "id": "[http://www.jq22.com](http://www.jq22.com/)" },
+    { "name": "花瓣网", "id": "http://huaban.com/" },
+    { "name": "优美图", "id": "http://www.topit.me/" },
+    { "name": "codepen", "id": "http://codepen.io/" },
+    { "name": "摄图网", "id": "http://699pic.com/" },
+    {
+      "name": "常用的JavaScript代码片段",
+      "id": "[http://microjs.com](http://microjs.com/)"
+    }
+  ],
+  "blogData": [
+    {
+      "name": "腾讯ISUX",
+      "id": "[http://isux.tencent.com](http://isux.tencent.com/)"
+    },
+    { "name": "奇舞周刊", "id": "http://old.75team.com/weekly/" },
+    {
+      "name": "淘宝前端团队（FED）",
+      "id": "[http://taobaofed.org](http://taobaofed.org/)"
+    },
+    {
+      "name": "码农周刊",
+      "id": "[http://weekly.manong.io](http://weekly.manong.io/)"
+    },
+    { "name": "凹凸实验室", "id": "https://aotu.io/" },
+    {
+      "name": "WEB前端开发",
+      "id": "[http://www.css88.com](http://www.css88.com/)"
+    },
+    {
+      "name": "A JS tip per day!",
+      "id": "[http://www.jstips.co](http://www.jstips.co/)"
+    },
+    {
+      "name": "腾讯全端 AlloyTeam",
+      "id": "http://www.alloyteam.com/webdevelop/"
+    },
+    {
+      "name": "阿里巴巴-U一点",
+      "id": "http://www.aliued.cn/"
+    },
+    {
+      "name": "百度WEB前端研发部",
+      "id": "http://fex.baidu.com/"
+    },
+    { "name": "携程设计委员会", "id": "http://ued.ctrip.com/blog/" },
+    {
+      "name": "平安科技移动开发二队技术周报",
+      "id": "https://github.com/PaicHyperionDev/MobileDevWeekly"
+    }
+  ],
+  "developmentData": [
+    {
+      "name": "mozilla js参考",
+      "id": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"
+    },
+    {
+      "name": "chrome开发中心（chrome的内核已转向blink）",
+      "id": "https://developer.chrome.com/extensions/api_index.html"
+    },
+    {
+      "name": "safari开发中心",
+      "id": "https://developer.apple.com/library/safari/navigation"
+    },
+    {
+      "name": "microsoft js参考",
+      "id": "https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94.aspx"
+    },
+    {
+      "name": "js秘密花园",
+      "id": "http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html"
+    },
+    {
+      "name": "js秘密花园",
+      "id": "http://bonsaiden.github.io/JavaScript-Garden/zh"
+    },
+    { "name": "w3help综合Bug集合网站", "id": "http://www.w3help.org/" }
+  ],
+  "nodejsData": [
+    {
+      "name": "Node.js 包教不包会",
+      "id": "https://github.com/alsotang/node-lessons"
+    },
+    { "name": "一个nodejs博客", "id": "http://60sky.com/" },
+    {
+      "name": "【NodeJS 学习笔记04】新闻发布系统",
+      "id": "http://www.cnblogs.com/yexiaochai/p/3536547.html"
+    },
+    {
+      "name": "过年7天乐，学nodejs 也快乐",
+      "id": "http://www.cnblogs.com/qqloving/p/3541099.html"
+    },
+    {
+      "name": "七天学会NodeJS",
+      "id": "https://github.com/nqdeng/7-days-nodejs"
+    },
+    {
+      "name": "Nodejs学习笔记（二）— 事件模块",
+      "id": "http://www.cnblogs.com/zhongweiv/p/nodejs_events.html"
+    },
+    {
+      "name": "nodejs入门",
+      "id": "http://www.cnblogs.com/liusuqi/p/3735491.html"
+    },
+    { "name": "angularjs nodejs", "id": "https://github.com/zensh/jsgen" },
+    {
+      "name": "从零开始nodejs系列文章",
+      "id": "http://blog.fens.me/series-nodejs"
+    },
+    {
+      "name": "理解nodejs",
+      "id": "http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb"
+    },
+    {
+      "name": "nodejs事件轮询",
+      "id": "http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop"
+    },
+    {
+      "name": "node入门",
+      "id": "http://www.nodebeginner.org/index-zh-cn.html"
+    },
+    {
+      "name": "nodejs cms",
+      "id": "http://ourjs.com/detail/53e1f281c5910a9806000001"
+    },
+    {
+      "name": "Node初学者入门，一本全面的NodeJS教程",
+      "id": "http://ourjs.com/detail/529ca5950cb6498814000005"
+    },
+    {
+      "name": "NodeJS的代码调试和性能调优",
+      "id": "http://www.barretlee.com/blog/2015/10/07/debug-nodejs-in-command-line"
+    }
+  ],
+  "ECMAscriptData": [
+    {
+      "name": "Understanding ECMAScript 6 - Nicholas C. Zakas",
+      "id": "https://leanpub.com/understandinges6/read"
+    },
+    { "name": "exploring-es6", "id": "https://leanpub.com/exploring-es6/read" },
+    {
+      "name": "exploring-es6翻译",
+      "id": "https://github.com/es6-org/exploring-es6"
+    },
+    {
+      "name": "exploring-es6翻译后预览",
+      "id": "http://es6-org.github.io/exploring-es6"
+    },
+    {
+      "name": "阮一峰 es6",
+      "id": "http://es6.ruanyifeng.com/"
+    },
+    {
+      "name": "阮一峰 Javascript",
+      "id": "http://javascript.ruanyifeng.com/"
+    },
+    { "name": "ECMA-262，第 5 版", "id": "http://yanhaijing.com/es5" },
+    { "name": "es5", "id": "http://es5.github.io/" }
+  ],
+  "VUEjsData": [
+    { "name": "Vue2.0", "id": "https://vuefe.cn/" },
+    { "name": "Vue", "id": "http://cn.vuejs.org/" },
+    { "name": "Vue Router", "id": "https://router.vuejs.org/" },
+    { "name": "Vuex", "id": "https://vuex.vuejs.org/" },
+    { "name": "Vue-Cli", "id": "https://github.com/vuejs/vue-cli" },
+    {
+      "name": "Vue 论坛",
+      "id": "http://forum.vuejs.org/"
+    },
+    { "name": "Vue 聊天室", "id": "https://gitter.im/vuejs/vue" },
+    {
+      "name": "Vue 入门指南",
+      "id": "http://www.cnblogs.com/aaronjs/p/3660102.html"
+    },
+    {
+      "name": "Vue 的一些资源索引",
+      "id": "http://segmentfault.com/a/1190000000411057"
+    },
+    { "name": "awesome-vue", "id": "https://github.com/vuejs/awesome-vue" },
+    {
+      "name": "vue-syntax-highlight",
+      "id": "https://github.com/vuejs/vue-syntax-highlight"
+    },
+    {
+      "name": "如何写一手漂亮的 Vue",
+      "id": "https://jeffjade.com/2017/03/11/120-how-to-write-vue-better/?me"
+    }
+  ],
+  "AngularjsData": [
+    {
+      "name": "Angular.js 的一些学习资源",
+      "id": "https://github.com/dolymood/AngularLearning"
+    },
+    {
+      "name": "angularjs中文社区",
+      "id": "http://angularjs.cn/"
+    },
+    {
+      "name": "Angularjs源码学习",
+      "id": "http://www.cnblogs.com/xuwenmin888/p/3739096.html"
+    },
+    {
+      "name": "Angularjs源码学习",
+      "id": "http://www.ifeenan.com/?c=AngularJS"
+    },
+    {
+      "name": "angular对bootstrap的封装",
+      "id": "http://angular-ui.github.io/bootstrap"
+    },
+    {
+      "name": "angularjs + nodejs",
+      "id": "https://cnodejs.org/topic/51404e0f069911196d2e3923"
+    },
+    {
+      "name": "吕大豹 Angularjs",
+      "id": "http://www.cnblogs.com/lvdabao/tag/AngularJs"
+    },
+    {
+      "name": "AngularJS 最佳实践",
+      "id": "http://www.infoq.com/cn/news/2013/02/angular-web-app"
+    },
+    {
+      "name": "Angular的一些扩展指令",
+      "id": "http://www.lovelucy.info/angularjs-best-practices.html"
+    },
+    {
+      "name": "Angular数据绑定原理",
+      "id": "https://github.com/Pasvaz/bindonce"
+    },
+    { "name": "一些扩展Angular UI组件", "id": "https://github.com/angular-ui" },
+    {
+      "name": "Ember和AngularJS的性能测试",
+      "id": "http://voidcanvas.com/emberjs-vs-angularjs-performance-testing"
+    },
+    {
+      "name": "带你走近AngularJS - 基本功能介绍",
+      "id": "http://www.cnblogs.com/powertoolsteam/p/angularjs-introdection.html"
+    },
+    {
+      "name": "Angularjs开发指南",
+      "id": "http://angular.duapp.com/docs/guide"
+    },
+    {
+      "name": "Angularjs学习",
+      "id": "http://www.cnblogs.com/amosli/p/3710648.html"
+    },
+    {
+      "name": "不要带着jQuery的思维去学习AngularJS",
+      "id": "http://www.rainweb.cn/article/angularjs-jquery.html"
+    },
+    {
+      "name": "angularjs 学习笔记",
+      "id": "http://wangjiatao.diandian.com/?tag=angularjs"
+    },
+    { "name": "angularjs 开发指南", "id": "http://www.angularjs.cn/T008" },
+    {
+      "name": "angularjs 英文资料",
+      "id": "https://github.com/jmcunningham/AngularJS-Learning"
+    },
+    {
+      "name": "angular bootstrap",
+      "id": "http://angular-ui.github.io/bootstrap"
+    },
+    {
+      "name": "angular jq mobile",
+      "id": "https://github.com/opitzconsulting/jquery-mobile-angular-adapter"
+    },
+    { "name": "angular ui", "id": "http://mgcrea.github.io/angular-strap" },
+    {
+      "name": "整合jQuery Mobile+AngularJS经验谈",
+      "id": "http://www.tuicool.com/articles/7ZZVr2"
+    },
+    {
+      "name": "有jQuery背景，该如何用AngularJS编程思想",
+      "id": "http://blog.jobbole.com/46589/"
+    },
+    { "name": "AngularJS在线教程", "id": "http://each.sinaapp.com/angular" },
+    {
+      "name": "angular学习笔记",
+      "id": "http://www.zouyesheng.com/angular.html"
+    }
+  ],
+  "reactjsData": [
+    {
+      "name": "react.js 中文论坛",
+      "id": "[http://www.react-china.org](http://www.react-china.org/)"
+    },
+    {
+      "name": "react.js 官方网址",
+      "id": "https://facebook.github.io/react/index.html"
+    },
+    {
+      "name": "react.js 官方文档",
+      "id": "https://facebook.github.io/react/docs/getting-started.html"
+    },
+    { "name": "react.js material UI", "id": "http://material-ui.com/#" },
+    {
+      "name": "react.js TouchstoneJS UI",
+      "id": "[http://touchstonejs.io](http://touchstonejs.io/)"
+    },
+    { "name": "react.js amazeui UI", "id": "http://amazeui.org/react" },
+    {
+      "name": "React 入门实例教程 - 阮一峰",
+      "id": "http://www.ruanyifeng.com/blog/2015/03/react.html"
+    },
+    {
+      "name": "React Native 中文版",
+      "id": "http://wiki.jikexueyuan.com/project/react-native"
+    },
+    {
+      "name": "Webpack 和 React 小书 - 前端乱炖",
+      "id": "[http://www.html-js.com/article/Fakefish%203053](http://www.html-js.com/article/Fakefish 3053)"
+    },
+    {
+      "name": "Webpack 和 React 小书 - gitbook",
+      "id": "https://fakefish.github.io/react-webpack-cookbook"
+    },
+    { "name": "webpack", "id": "https://github.com/webpack/webpack" },
+    { "name": "Webpack，101入门体验", "id": "http://html-js.com/article/3009" },
+    { "name": "webpack入门教程", "id": "http://html-js.com/article/3113" },
+    {
+      "name": "基于webpack搭建前端工程解决方案探索",
+      "id": "http://segmentfault.com/a/1190000003499526"
+    }
+  ],
+  "WebpackData": [
+    { "name": "Webpack 官网", "id": "https://webpack.js.org/" },
+    { "name": "Webpack 中文网", "id": "https://doc.webpack-china.org/" },
+    {
+      "name": "webpack-demos（阮一峰）",
+      "id": "https://github.com/ruanyf/webpack-demos"
+    },
+    {
+      "name": "Webpack Tutorial",
+      "id": "https://www.ag-grid.com/ag-grid-understanding-webpack/"
+    },
+    {
+      "name": "webpack 入门指南",
+      "id": "http://www.cnblogs.com/vajoy/p/4650467.html"
+    },
+    {
+      "name": "Webpack 打包优化之体积篇",
+      "id": "https://jeffjade.com/2017/08/06/124-webpack-packge-optimization-for-volume/"
+    },
+    {
+      "name": "Webpack 打包优化之速度篇",
+      "id": "https://jeffjade.com/2017/08/12/125-webpack-package-optimization-for-speed/"
+    }
+  ],
+  "GulpData": [
+    { "name": "Gulp官网", "id": "http://gulpjs.com/" },
+    {
+      "name": "Gulp中文网",
+      "id": "http://www.gulpjs.com.cn/"
+    },
+    {
+      "name": "gulp资料收集",
+      "id": "https://github.com/Platform-CUF/use-gulp"
+    },
+    {
+      "name": "Gulp：任务自动管理工具 - ruanyifeng",
+      "id": "http://javascript.ruanyifeng.com/tool/gulp.html"
+    },
+    { "name": "Gulp插件", "id": "http://gulpjs.com/plugins" },
+    {
+      "name": "Gulp探究折腾之路(I)",
+      "id": "https://www.jeffjade.com/2015/11/25/2015-11-25-toss-gulp/"
+    },
+    {
+      "name": "Gulp折腾之路(II)",
+      "id": "https://www.jeffjade.com/2016/01/19/2016-01-19-toss-gulp/"
+    },
+    { "name": "Gulp不完全入门教程", "id": "http://www.ido321.com/1622.html" },
+    {
+      "name": "为什么使用gulp?",
+      "id": "https://github.com/hjzheng/CUF_meeting_knowledge_share/issues/33"
+    },
+    {
+      "name": "Gulp安装及配合组件构建前端开发一体化",
+      "id": "http://www.dbpoo.com/getting-started-with-gulp"
+    },
+    { "name": "Gulp 入门指南", "id": "https://github.com/nimojs/gulp-book" },
+    {
+      "name": "Gulp 入门指南 - nimojs",
+      "id": "https://github.com/nimojs/blog/issues/19"
+    },
+    { "name": "Gulp in Action", "id": "http://www.imooc.com/video/5692" },
+    {
+      "name": "Gulp开发教程（翻译）",
+      "id": "http://www.w3ctech.com/topic/134"
+    },
+    {
+      "name": "前端构建工具gulpjs的使用介绍及技巧",
+      "id": "http://www.cnblogs.com/2050/p/4198792.html"
+    }
+  ],
+  "templateData": [
+    {
+      "name": "template-chooser",
+      "id": "http://garann.github.io/template-chooser"
+    },
+    { "name": "artTemplate", "id": "https://github.com/aui/artTemplate" },
+    {
+      "name": "tomdjs",
+      "id": "https://github.com/aui/tmodjs/blob/master/README.md"
+    },
+    {
+      "name": "Fxtpl v1.0 繁星前端模板引擎",
+      "id": "http://koen301.github.io/fxtpl"
+    },
+    {
+      "name": "laytpl",
+      "id": "[http://laytpl.layui.com](http://laytpl.layui.com/)"
+    },
+    {
+      "name": "mozilla - nunjucks",
+      "id": "https://github.com/mozilla/nunjucks"
+    },
+    { "name": "Juicer", "id": "https://github.com/PaulGuo/Juicer" },
+    { "name": "dustjs", "id": "http://akdubya.github.io/dustjs" },
+    { "name": "etpl", "id": "http://ecomfe.github.io/etpl" }
+  ],
+  "HTML5Data": [
+    {
+      "name": "深入理解HTML5标签",
+      "id": "https://segmentfault.com/a/1190000002695791"
+    },
+    {
+      "name": "如何写出高效率的HTML",
+      "id": "https://segmentfault.com/a/1190000002680822"
+    },
+    {
+      "name": "HTML meta标签总结与属性使用介绍",
+      "id": "https://segmentfault.com/a/1190000004279791"
+    },
+    {
+      "name": "戏说HTML5",
+      "id": "http://www.cnblogs.com/dojo-lzz/p/5059316.html"
+    }
+  ],
+  "CSS3Data": [
+    {
+      "name": "CSS 语法参考",
+      "id": "http://tympanus.net/codrops/css_reference"
+    },
+    {
+      "name": "如何编写可维护的CSS",
+      "id": "https://github.com/chadluo/CSS-Guidelines/blob/master/README.md"
+    },
+    { "name": "CSS3动画手册", "id": "http://isux.tencent.com/css3/index.html" },
+    {
+      "name": "腾讯css3动画制作工具",
+      "id": "http://isux.tencent.com/css3/tools.html"
+    },
+    { "name": "志爷css小工具集合", "id": "http://linxz.github.io/tianyizone" },
+    {
+      "name": "css3 js 移动大杂烩",
+      "id": "http://www.note12.com/category/blog/2014-6-5/538fe0a9f786f1b7019a4dfb"
+    },
+    {
+      "name": "bouncejs 触摸库",
+      "id": "http://bouncejs.com/"
+    },
+    { "name": "animate.css", "id": "http://daneden.github.io/animate.css" },
+    {
+      "name": "全局CSS的终结(狗带 [译]",
+      "id": "http://www.alloyteam.com/2015/10/8536"
+    },
+    {
+      "name": "browserhacks",
+      "id": "http://browserhacks.com/"
+    }
+  ],
+  "mobileAPIData": [
+    {
+      "name": "99移动端知识集合",
+      "id": "https://github.com/jtyjty99999/mobileTech"
+    },
+    {
+      "name": "移动端前端开发知识库",
+      "id": "https://github.com/AlloyTeam/Mars"
+    },
+    {
+      "name": "移动前端的一些坑和解决方法（外观表现）",
+      "id": "http://caibaojian.com/mobile-web-bug.html"
+    },
+    {
+      "name": "【原】移动web资源整理",
+      "id": "http://www.cnblogs.com/PeunZhang/p/3407453.html"
+    },
+    { "name": "zepto 1.0 中文手册", "id": "http://www.html-5.cn/Manual/Zepto" },
+    { "name": "zepto 1.1.2", "id": "http://www.css88.com/doc/zeptojs_api" },
+    {
+      "name": "zepto 中文注释",
+      "id": "http://www.cnblogs.com/sky000/archive/2013/03/29/2988952.html"
+    },
+    {
+      "name": "jqmobile 手册",
+      "id": "http://app-framework-software.intel.com/api.php"
+    },
+    {
+      "name": "移动浏览器开发集合",
+      "id": "https://github.com/maxzhang/maxzhang.github.com/issues"
+    },
+    {
+      "name": "移动开发大杂烩",
+      "id": "https://github.com/hoosin/mobile-web-favorites"
+    }
+  ],
+  "jQuerydata": [
+    {
+      "name": "YOU MIGHT NOT NEED JQUERY",
+      "id": "http://youmightnotneedjquery.com/"
+    },
+    {
+      "name": "jQuery API 中文文档",
+      "id": "http://www.jquery123.com/"
+    },
+    { "name": "hemin 在线版", "id": "http://hemin.cn/jq" },
+    { "name": "css88 jq api", "id": "http://www.css88.com/jqapi-1.9/on" },
+    { "name": "css88 jqui api", "id": "http://www.css88.com/jquery-ui-api" },
+    {
+      "name": "学习jquery",
+      "id": "http://learn.jquery.com/"
+    },
+    { "name": "jquery 源码查找", "id": "http://james.padolsey.com/jquery" },
+    {
+      "name": "Web前端资源汇总(jQuery,Js,Css3等)",
+      "id": "http://www.cnblogs.com/jihua/p/webfront.html"
+    }
+  ],
+  "D3Data": [
+    {
+      "name": "d3 Tutorials",
+      "id": "https://github.com/mbostock/d3/wiki/Tutorials"
+    },
+    { "name": "Gallery", "id": "https://github.com/mbostock/d3/wiki/Gallery" },
+    {
+      "name": "lofter",
+      "id": "http://datavisual.lofter.com/post/40cf3a_188e535"
+    },
+    { "name": "iteye", "id": "http://alanland.iteye.com/blog/1878595" },
+    {
+      "name": "ruanyifeng",
+      "id": "http://javascript.ruanyifeng.com/library/d3.html"
+    }
+  ],
+  "RequireJSData": [
+    {
+      "name": "Javascript模块化编程（一）：模块的写法",
+      "id": "http://www.ruanyifeng.com/blog/2012/10/javascript_module.html"
+    },
+    {
+      "name": "Javascript模块化编程（二）：AMD规范",
+      "id": "http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html"
+    },
+    {
+      "name": "Javascript模块化编程（三）：require.js的用法",
+      "id": "http://www.ruanyifeng.com/blog/2012/11/require_js.html"
+    },
+    {
+      "name": "RequireJS入门（一）",
+      "id": "http://www.cnblogs.com/snandy/archive/2012/05/22/2513652.html"
+    },
+    {
+      "name": "RequireJS入门（二）",
+      "id": "http://www.cnblogs.com/snandy/archive/2012/05/23/2513712.html"
+    },
+    {
+      "name": "RequireJS进阶（三）",
+      "id": "http://www.cnblogs.com/snandy/archive/2012/06/08/2538001.html"
+    },
+    {
+      "name": "requrie源码学习",
+      "id": "http://www.cnblogs.com/yexiaochai/p/3632580.html"
+    },
+    {
+      "name": "requrie 入门指南",
+      "id": "http://www.oschina.net/translate/getting-started-with-the-requirejs-library"
+    },
+    {
+      "name": "requrieJS 学习笔记",
+      "id": "http://www.cnblogs.com/yexiaochai/p/3214926.html"
+    },
+    { "name": "requriejs 其一", "id": "http://cyj.me/why-seajs/requirejs/" },
+    {
+      "name": "require backbone结合",
+      "id": "http://www.cnblogs.com/yexiaochai/p/3221081.html"
+    }
+  ],
+  "seaJsData": [
+    { "name": "seajs", "id": "[http://seajs.org](http://seajs.org/)" },
+    { "name": "seajs 中文手册", "id": "http://cyj.me/why-seajs/zh" }
+  ],
+  "sasslessData": [
+    { "name": "sass", "id": "http://www.w3cplus.com/sassguide" },
+    {
+      "name": "sass教程-sass中国",
+      "id": "[http://www.sass.hk](http://www.sass.hk/)"
+    },
+    {
+      "name": "Sass 中文文档",
+      "id": "[http://sass.bootcss.com](http://sass.bootcss.com/)"
+    },
+    {
+      "name": "less",
+      "id": "[http://less.bootcss.com](http://less.bootcss.com/)"
+    }
+  ],
+  "markdownData": [
+    {
+      "name": "Markdown 语法说明 (简体中文版",
+      "id": "http://wowubuntu.com/markdown"
+    },
+    {
+      "name": "markdown入门参考",
+      "id": "https://github.com/LearnShare/Learning-Markdown/blob/master/README.md"
+    },
+    {
+      "name": "gitbook",
+      "id": "[https://www.gitbook.com](https://www.gitbook.com/) 国外的在线markdown可编辑成书"
+    },
+    {
+      "name": "mdeditor",
+      "id": "https://www.zybuluo.com/mdeditor 一款国内的在线markdown编辑器"
+    },
+    {
+      "name": "stackedit",
+      "id": "[https://stackedit.io](https://stackedit.io/) 国外的在线markdown编辑器，功能强大，同步云盘"
+    },
+    {
+      "name": "mditor",
+      "id": "http://bh-lay.github.io/mditor 一款轻量级的markdown编辑器"
+    },
+    { "name": "lepture-editor", "id": "https://github.com/lepture/editor" },
+    {
+      "name": "markdown-editor",
+      "id": "https://github.com/jbt/markdown-editor"
+    },
+    {
+      "name": "作业部落",
+      "id": "[https://www.zybuluo.com](https://www.zybuluo.com/) 功能强大，速度流畅，全平台同步"
+    }
+  ],
+  "compatibilityData": [
+    {
+      "name": "esma 兼容列表",
+      "id": "http://kangax.github.io/compat-table/es6"
+    },
+    {
+      "name": "W3C CSS验证服务",
+      "id": "http://jigsaw.w3.org/css-validator/validator.html.zh-cn"
+    },
+    { "name": "caniuse", "id": "http://caniuse.com/#index" },
+    { "name": "csscreator", "id": "http://csscreator.com/properties" },
+    {
+      "name": "microsoft",
+      "id": "https://msdn.microsoft.com/zh-cn/library/cc351024(v=vs.85.aspx"
+    },
+    {
+      "name": "在线测兼容-移动端",
+      "id": "[http://www.responsinator.com](http://www.responsinator.com/)"
+    },
+    { "name": "emulators", "id": "https://www.manymo.com/emulators" }
+  ],
+
+  "otherAPIData": [
+    {
+      "name": "HTTP API 设计指南",
+      "id": "http://segmentfault.com/bookmark/1230000002521721"
+    },
+    { "name": "javascript流行库汇总", "id": "javascriptoo" },
+    { "name": "验证api", "id": "http://niceue.com/validator/demo/index.php" },
+    {
+      "name": "underscore 中文手册",
+      "id": "http://www.css88.com/doc/underscore"
+    },
+    {
+      "name": "underscore源码分析",
+      "id": "http://www.html-js.com/article/Underscorejs-source-code-analysis-of-underscorejs-source-code-analysis%203031)"
+    },
+    {
+      "name": "underscore源码分析-亚里士朱德的博客",
+      "id": "http://yalishizhude.github.io/tags/underscore"
+    },
+    {
+      "name": "underscrejs en api",
+      "id": "http://underscorejs.org/"
+    },
+    {
+      "name": "lodash - underscore的代替品",
+      "id": "https://lodash.com/"
+    },
+    { "name": "ext4api", "id": "http://extjs-doc-cn.github.io/ext4api" },
+    {
+      "name": "qwrap手册",
+      "id": "http://dev.qwrap.com/resource/js/_docs/_youa/#/qw/base/loadJs_.htm"
+    },
+    { "name": "缓动函数", "id": "http://easings.net/zh-cn" },
+    {
+      "name": "svg 中文参考",
+      "id": "http://www.w3school.com.cn/svg/svg_reference.asp"
+    },
+    {
+      "name": "svg mdn参考",
+      "id": "https://developer.mozilla.org/en-US/docs/Web/SVG"
+    },
+    { "name": "svg 导出 canvas", "id": "https://github.com/gabelerner/canvg" },
+    { "name": "svg 导出 png", "id": "https://github.com/exupero/saveSvgAsPng" },
+    { "name": "ai-to-svg", "id": "http://www.zamzar.com/convert/ai-to-svg" },
+    {
+      "name": "localStorage 库",
+      "id": "https://github.com/machao/localStorage"
+    }
+  ],
+  "chartData": [
+    {
+      "name": "Highcharts 中文API",
+      "id": "http://www.hcharts.cn/api/index.php"
+    },
+    {
+      "name": "Highcharts 英文API",
+      "id": "http://api.highcharts.com/highcharts"
+    },
+    { "name": "ECharts 百度的图表软件", "id": "http://echarts.baidu.com/" },
+    { "name": "高德地图", "id": "http://lbs.amap.com/api" },
+    { "name": "开源的矢量图脚本框架", "id": "http://paperjs.org" },
+    { "name": "svg 地图", "id": "http://jvectormap.com" }
+  ],
+  "regularData": [
+    {
+      "name": "JS正则表达式元字符",
+      "id": "http://segmentfault.com/a/1190000002471140"
+    },
+    {
+      "name": "正则表达式30分钟入门教程",
+      "id": "http://deerchao.net/tutorials/regex/regex.htm"
+    },
+    {
+      "name": "MDN-正则表达式",
+      "id": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions"
+    },
+    {
+      "name": "ruanyifeng - RegExp对象",
+      "id": "http://javascript.ruanyifeng.com/stdlib/regexp.html"
+    },
+    {
+      "name": "小胡子哥 - 进阶正则表达式",
+      "id": "http://div.io/topic/764?page=1"
+    },
+    {
+      "name": "is.js",
+      "id": "https://github.com/Cedriking/is.js/blob/master/is.js"
+    },
+    {
+      "name": "正则在线测试",
+      "id": "http://regexper.com"
+    }
+  ],
+  "specificationData": [
+    {
+      "name": "通过分析github代码库总结出来的工程师代码书写习惯",
+      "id": "http://alloyteam.github.io/CodeGuide"
+    },
+    {
+      "name": "HTML&CSS编码规范 by @mdo",
+      "id": "[http://codeguide.bootcss.com](http://codeguide.bootcss.com/)"
+    },
+    {
+      "name": "团队合作的css命名规范-腾讯AlloyTeam前端团队",
+      "id": "http://www.alloyteam.com/2011/10/css-on-team-naming/"
+    },
+    {
+      "name": "前端编码规范之js - by yuwenhui",
+      "id": "[http://yuwenhui.github.io](http://yuwenhui.github.io/)"
+    },
+    {
+      "name": "前端编码规范之js - by 李靖",
+      "id": "http://www.cnblogs.com/hustskyking/p/javascript-spec.html"
+    },
+    {
+      "name": "前端开发规范手册",
+      "id": "http://zhibimo.com/read/Ashu/front-end-style-guide"
+    },
+    {
+      "name": "Airbnb JavaScript 编码规范（简体中文版）",
+      "id": "https://github.com/yuche/javascript#table-of-contents"
+    },
+    {
+      "name": "AMD与CMD规范的区别",
+      "id": "http://www.zhihu.com/question/20351507"
+    },
+    {
+      "name": "AMD与CMD规范的区别",
+      "id": "http://www.cnblogs.com/tugenhua0707/p/3507957.html"
+    },
+    {
+      "name": "KISSY 源码规范",
+      "id": "http://docs.kissyui.com/1.4/docs/html/tutorials/style-guide/kissy-source-style.html"
+    },
+    {
+      "name": "bt编码规范",
+      "id": "[http://codeguide.bootcss.com](http://codeguide.bootcss.com/)"
+    },
+    { "name": "规范加强版", "id": "https://github.com/Suxiaogang/Code_Guide" },
+    {
+      "name": "前端代码规范 及 最佳实践",
+      "id": "http://blog.jobbole.com/79075"
+    },
+    {
+      "name": "百度前端规范",
+      "id": "http://coderlmn.github.io/code-standards"
+    },
+    {
+      "name": "百度前端规范",
+      "id": "http://isobar-idev.github.io/code-standards"
+    },
+    {
+      "name": "百度前端规范",
+      "id": "http://zhuanlan.zhihu.com/fuyun/19884834"
+    },
+    {
+      "name": "ECMAScript6 编码规范–广发证券前端团队",
+      "id": "https://github.com/gf-rd/es6-coding-style"
+    },
+    {
+      "name": "JavaScript 风格指南/编码规范（Airbnb公司版）",
+      "id": "http://blog.jobbole.com/79484"
+    },
+    { "name": "网易前端开发规范", "id": "http://nec.netease.com/standard" },
+    { "name": "css模块", "id": "http://www.75team.com/archives/1049" },
+    { "name": "前端规范资源列表", "id": "https://github.com/ecomfe/spec" }
+  ],
+  "PHPData": [
+    {
+      "name": "最流行的PHP 代码规范",
+      "id": "http://segmentfault.com/a/1190000000443795"
+    },
+    {
+      "name": "最流行的PHP 代码规范",
+      "id": "[https://github.com/hfcorriez/fig-standards/blob/zh_CN/%E6%8E%A5%E5%8F%97/PSR-2-coding-style-guide.md](https://github.com/hfcorriez/fig-standards/blob/zh_CN/接受/PSR-2-coding-style-guide.md)"
+    }
+  ],
+  "openSourceData": [
+    {
+      "name": "Facebook Projects",
+      "id": "https://code.facebook.com/projects/web"
+    },
+    {
+      "name": "百度web前端研发部",
+      "id": "http://fex.baidu.com/"
+    },
+    {
+      "name": "百度EFE",
+      "id": "http://efe.baidu.com/"
+    },
+    { "name": "百度github", "id": "https://github.com/fex-team" },
+    {
+      "name": "alloyteam",
+      "id": "http://www.alloyteam.com/"
+    },
+    {
+      "name": "alloyteam-github",
+      "id": "http://alloyteam.github.io/"
+    },
+    {
+      "name": "alloyteam-AlloyGameEngine",
+      "id": "https://github.com/AlloyTeam/AlloyGameEngine"
+    },
+    {
+      "name": "AlloyDesigner即时修改，即时保存，设计稿较正，其它开发辅助工具",
+      "id": "http://alloyteam.github.io/AlloyDesigner"
+    },
+    {
+      "name": "H5交互页编辑器AEditor介绍 H5动画交互页开发的工具介绍",
+      "id": "http://www.alloyteam.com/2015/06/h5-jiao-hu-ye-bian-ji-qi-aeditor-jie-shao"
+    },
+    {
+      "name": "AEditor H5动画交互页开发的工具",
+      "id": "http://aeditor.alloyteam.com/"
+    },
+    {
+      "name": "值得订阅的weekly",
+      "id": "https://github.com/fenbility/weekly-feed"
+    },
+    {
+      "name": "奇舞团开源项目",
+      "id": "http://75team.github.io/"
+    },
+    {
+      "name": "Qunar UED",
+      "id": "http://ued.qunar.com/"
+    }
+  ],
+  "commonData": [
+    {
+      "name": "ieBetter.js-让IE6-IE8拥有IE9+,Chrome等浏览器特性",
+      "id": "http://www.zhangxinxu.com/wordpress/2013/12/iebetter-js-make-ie6-ie8-like-modern-browser-ie9-chrome"
+    },
+    { "name": "模拟键盘", "id": "http://mottie.github.io/Keyboard" },
+    { "name": "拼音", "id": "https://github.com/hotoo/pinyin" },
+    {
+      "name": "中国个人身份证号验证",
+      "id": "https://github.com/mc-zone/IDValidator"
+    }
+  ],
+  "algorithmData": [
+    {
+      "name": "数据结构与算法 JavaScript 描述. 章节练习",
+      "id": "https://github.com/Ralph-Wang/algorithm.in.js"
+    },
+    {
+      "name": "常见排序算法（JS版）",
+      "id": "https://github.com/twobin/twobinSort"
+    },
+    {
+      "name": "经典排序",
+      "id": "https://github.com/luofei2011/jsAgm/blob/master/js/sort.js"
+    },
+    {
+      "name": "常见排序算法-js版本",
+      "id": "https://github.com/hechangmin/jssort"
+    },
+    {
+      "name": "JavaScript 算法与数据结构 精华集",
+      "id": "https://github.com/lightningtgc/JavaScript-Algorithms"
+    },
+    {
+      "name": "面试常考算法题精讲",
+      "id": "http://www.nowcoder.com/live/courses"
+    }
+  ],
+  "mobileData": [
+    { "name": "fastclick", "id": "https://github.com/ftlabs/fastclick" },
+    {
+      "name": "no-click-delay",
+      "id": "https://github.com/mmastrac/jquery-noclickdelay"
+    },
+    {
+      "name": "【敏捷开发】Android团队开发规范",
+      "id": "http://www.cnblogs.com/lcw/p/3619181.html"
+    },
+    {
+      "name": "Android 开发规范与应用",
+      "id": "http://www.jianshu.com/p/4390f4fe19b3"
+    },
+    { "name": "ionic", "id": "https://github.com/ychow/ionic-guide" }
+  ],
+  "JSONData": [
+    {
+      "name": "模拟生成JSON数据",
+      "id": "http://beta.json-generator.com/"
+    }
+  ],
+  "UIData": [
+    {
+      "name": "Foundation",
+      "id": "http://foundation.zurb.com/?form=jeffjade.com"
+    },
+    { "name": "Bootcss", "id": "http://v3.bootcss.com/?form=jeffjade.com" },
+    { "name": "Element UI", "id": "http://element.eleme.io/#/zh-CN 基于Vue" },
+    {
+      "name": "ANT DESIGN一个 UI 设计语言",
+      "id": "http://ant.design/ "
+    },
+    {
+      "name": "Smart UI",
+      "id": "http://smartui.chinamzz.com/"
+    },
+    { "name": "MetroUICSS", "id": "http://www.w3cplus.com/MetroUICSS" },
+    {
+      "name": "Semantic",
+      "id": "http://semantic-ui.com/"
+    },
+    { "name": "Layui", "id": "http://www.layui.com/?form=jeffjade.com" },
+    { "name": "Buttons", "id": "http://alexwolfe.github.io/Buttons" },
+    { "name": "kitecss", "id": "http://hiloki.github.io/kitecss" },
+    {
+      "name": "pintuer",
+      "id": "http://www.pintuer.com/"
+    },
+    { "name": "amazeui", "id": "[http://amazeui.org/" },
+    {
+      "name": "worldhello",
+      "id": "http://www.worldhello.net/gotgithub/index.html"
+    },
+    { "name": "linuxtoy", "id": "http://igit.linuxtoy.org/contents.html" },
+    {
+      "name": "gitmagic",
+      "id": "http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn"
+    },
+    {
+      "name": "rogerdudler",
+      "id": "http://rogerdudler.github.io/git-guide/index.zh.html"
+    },
+    {
+      "name": "gitref",
+      "id": "http://gitref.justjavac.com/"
+    },
+    { "name": "book", "id": "http://git-scm.com/book/zh" },
+    {
+      "name": "gogojimmy",
+      "id": "http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic"
+    },
+
+    { "name": "雅虎UI - CSS UI", "id": "http://developer.yahoo.com/yui/grids" },
+    { "name": "extjs", "id": "https://www.sencha.com/products/extjs" },
+    { "name": "ext4英文api", "id": "http://docs.sencha.com/extjs/4.0.7" },
+    { "name": "ext4中文api", "id": "http://extjs-doc-cn.github.io/ext4api" },
+    {
+      "name": "jquery easyui 未压缩源代码",
+      "id": "http://jquery-easyui.googlecode.com/svn/trunk/src"
+    },
+    { "name": "J-UI", "id": "http://jui.org/" },
+    {
+      "name": "MUI-最接近原生APP体验的高性能前端框架",
+      "id": "http://dcloudio.github.io/mui"
+    },
+    {
+      "name": "Amaze UI(中国首个开源 HTML5 跨屏前端框架)",
+      "id": "http://amazeui.org"
+    },
+    {
+      "name": "淘宝 HTML5 前端框架",
+      "id": "http://m.sui.taobao.org/"
+    },
+    {
+      "name": "KISSY - 阿里前端JavaScript库",
+      "id": "http://docs.kissyui.com/"
+    },
+    {
+      "name": "网易Nej - Nice Easy Javascript",
+      "id": "http://nej.netease.com/"
+    },
+    {
+      "name": "Kendo UI MVVM Demo",
+      "id": "http://demos.telerik.com/kendo-ui/mvvm/index"
+    }
+  ],
+  "shareData": [
+    {
+      "name": "百度分享",
+      "id": "http://share.baidu.com pc端"
+    },
+    {
+      "name": "JiaThis",
+      "id": "http://jiathis.com/ pc端"
+    },
+    {
+      "name": "社会化分享组件",
+      "id": "http://developer.baidu.com/soc/share 移动端"
+    },
+    {
+      "name": "ShareSDK 轻松实现社会化功能",
+      "id": "http://www.mob.com/#/index 移动端"
+    },
+    {
+      "name": "友盟分享",
+      "id": "http://dev.umeng.com/social/android/quick-integration 移动端"
+    }
+  ],
+  "hypertextData": [
+    {
+      "name": "功能齐全 tinymce",
+      "id": "https://www.tinymce.com/"
+    },
+    { "name": "百度 ueditor", "id": "http://ueditor.baidu.com/website" },
+    {
+      "name": "经典的ckeditor",
+      "id": "http://ckeditor.com/"
+    },
+    {
+      "name": "经典的kindeditor",
+      "id": "http://kindeditor.net/"
+    },
+    { "name": "wysiwyg", "id": "http://www.bootcss.com/p/bootstrap-wysiwyg" },
+    {
+      "name": "一个有情怀的编辑器。Bach’s Editor",
+      "id": "http://integ.github.io/BachEditor"
+    },
+    {
+      "name": "tower用的编辑器",
+      "id": "https://github.com/mycolorway/simditor"
+    },
+    {
+      "name": "summernote 编辑器",
+      "id": "https://github.com/summernote/summernote"
+    },
+    { "name": "html5编辑器", "id": "http://neilj.github.io/Squire" },
+    {
+      "name": "Quilljs编辑器",
+      "id": "http://quilljs.com/"
+    },
+    {
+      "name": "wangEditor",
+      "id": "https://github.com/wangfupeng1988/wangEditor"
+    }
+  ],
+  "stateData": [
+    {
+      "name": "前端工具大全",
+      "id": "http://www.awesomes.cn/"
+    },
+    {
+      "name": "什么是前端工程化",
+      "id": "https://github.com/fouber/blog/issues/10?from=timeline&isappinstalled=0#"
+    },
+    {
+      "name": "[译] 前端攻略-从路人甲到英雄无敌",
+      "id": "https://segmentfault.com/a/1190000005174755"
+    }
+  ],
+  "carouselData": [
+    {
+      "name": "Vue 的图片轮播组件:vue-slider",
+      "id": "https://github.com/qusiba/vue-slider"
+    },
+    {
+      "name": "左右按钮多图切换",
+      "id": "http://bxslider.com/examples/carousel-demystified"
+    },
+    {
+      "name": "fullpage全屏轮播",
+      "id": "https://github.com/alvarotrigo/fullPage.js"
+    }
+  ],
+  "mobileCarouselData": [
+    { "name": "滑屏效果", "id": "http://www.idangero.us/swiper" },
+    { "name": "全屏fullpage", "id": "https://github.com/peunzhang/fullpage" },
+    { "name": "单个图片切换", "id": "https://github.com/qiqiboy/touchslider" },
+    { "name": "单个全屏切换", "id": "https://github.com/peunzhang/slip.js" },
+    { "name": "单个全屏切换", "id": "https://github.com/peunzhang/iSlider" },
+    { "name": "滑屏效果", "id": "https://github.com/saw/touch-interfaces" },
+    { "name": "旋转拖动设置", "id": "http://baijs.com/tinycircleslider" },
+    {
+      "name": "类似于swipe切换",
+      "id": "http://touchslider.com/"
+    },
+    {
+      "name": "支持多种形式的触摸滑动",
+      "id": "http://www.swiper.com.cn/demo/index.html"
+    },
+    {
+      "name": "滑屏效果",
+      "id": "https://github.com/joker-ye/main/blob/master/wap/index.html"
+    },
+    {
+      "name": "大话主席pc移动图片轮换",
+      "id": "http://www.superslide2.com/"
+    },
+    { "name": "滑屏效果", "id": "https://github.com/hahnzhu/parallax.js" },
+    {
+      "name": "基于zepto的fullpage",
+      "id": "https://github.com/yanhaijing/zepto.fullpage"
+    },
+    {
+      "name": "[WebApp]定宽网页设计下，固定宽度布局开发WebApp并实现多终端下WebApp布局自适应",
+      "id": "http://www.cnblogs.com/plums/archive/2013/01/10/WebApp-fixed-width-layout-of-multi-terminal-adapter-since.html"
+    },
+    {
+      "name": "判断微信客户端的那些坑",
+      "id": "http://loo2k.com/blog/detecting-wechat-client"
+    },
+    {
+      "name": "可以通过javascript直接调用原生分享的工具",
+      "id": "https://github.com/JefferyWang/nativeShare.js"
+    },
+    {
+      "name": "JiaThis 分享到微信代码",
+      "id": "http://www.jiathis.com/help/html/weixin-share-code"
+    },
+    {
+      "name": "聊聊移动端跨平台开发的各种技术",
+      "id": "http://fex.baidu.com/blog/2015/05/cross-mobile"
+    },
+    {
+      "name": "前端自动化测试",
+      "id": "http://www.zhihu.com/question/29922082"
+    },
+    { "name": "多种轮换图片", "id": "http://ajccom.github.io/niceslider" },
+    { "name": "滑动侧边栏", "id": "https://mango.github.io/slideout" }
+  ],
+  "uploadData": [
+    { "name": "百度上传组件", "id": "http://fex.baidu.com/webuploader" },
+    {
+      "name": "上传",
+      "id": "https://blueimp.github.io/jQuery-File-Upload"
+    },
+    {
+      "name": "flash 头像上传",
+      "id": "http://www.hdfu.net/"
+    },
+    {
+      "name": "图片上传预览",
+      "id": "http://www.dropzonejs.com/"
+    },
+    {
+      "name": "图片裁剪",
+      "id": "http://elemefe.github.io/image-cropper"
+    },
+    {
+      "name": "图片裁剪-shearphoto",
+      "id": "http://www.shearphoto.com/"
+    },
+    {
+      "name": "jQuery图片处理",
+      "id": "http://www.oschina.net/project/tag/284/jquery-image-tools?lang=0&os=0&sort=view&p=2"
+    }
+  ],
+  "colorData": [
+    {
+      "name": "类似 Photoshop 的界面取色插件",
+      "id": "http://www.jq22.com/plugin/367"
+    },
+    { "name": "jquery color", "id": "https://github.com/jquery/jquery-color" },
+    {
+      "name": "取色插件集合",
+      "id": "http://www.oschina.net/project/tag/287/color-picker"
+    },
+    {
+      "name": "farbtastic 圆环＋正方形",
+      "id": "https://github.com/mattfarina/farbtastic"
+    }
+  ],
+  "selectData": [
+    {
+      "name": "糖饼 select",
+      "id": "http://aui.github.io/popupjs/doc/selectbox.html"
+    },
+    {
+      "name": "flexselect",
+      "id": "https://github.com/rmm5t/jquery-flexselect"
+    },
+    { "name": "双select", "id": "http://loudev.com/" },
+    {
+      "name": "select2",
+      "id": "[http://select2.github.io/"
+    }
+  ],
+  "cityData": [
+    {
+      "name": "jquery.cityselect.js基于jQuery+JSON的省市或自定义联动效果",
+      "id": "http://www.ijquery.cn/?p=360"
+    }
+  ],
+  "clipboardData": [
+    {
+      "name": "剪贴板",
+      "id": "https://github.com/zeroclipboard/zeroclipboard"
+    },
+    {
+      "name": "clipboard 最新的剪切方案",
+      "id": "http://zenorocha.github.io/clipboard.js"
+    },
+    {
+      "name": "不是Flash的剪贴板",
+      "id": "https://github.com/zenorocha/clipboard.js"
+    }
+  ],
+  "changeData": [
+    { "name": "简繁转换", "id": "https://github.com/BYVoid/OpenCC" }
+  ],
+  "gridData": [
+    {
+      "name": "facebook表格",
+      "id": "http://facebook.github.io/fixed-data-table"
+    },
+    {
+      "name": "类似于Excel编辑表格-handsontable",
+      "id": "http://handsontable.com/"
+    },
+    {
+      "name": "bootstrap-table插件",
+      "id": "http://bootstrap-table.wenzhixin.net.cn"
+    },
+    { "name": "datatables", "id": "https://www.datatables.net/" }
+  ]
+}
